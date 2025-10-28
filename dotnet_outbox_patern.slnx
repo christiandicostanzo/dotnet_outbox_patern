@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="Outbox.Api/Outbox.Api.csproj" />
+  <Project Path="Outbox.Common/Outbox.Common.csproj" />
+  <Project Path="Outbox.Consumer/Outbox.Consumer.csproj" />
+  <Project Path="Outbox.MessageRelay/Outbox.MessageRelay.csproj" />
+</Solution>
